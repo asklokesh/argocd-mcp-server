@@ -33,3 +33,5 @@ dev = [
 
 [project.scripts]
 argocd-mcp = "argocd_mcp.server:main"
+[tool.hatch.build.targets.wheel]
+packages = ["src/argocd_mcp"]
