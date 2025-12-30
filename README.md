@@ -1,5 +1,7 @@
 # ArgoCD MCP Server
 
+<!-- mcp-name: io.github.asklokesh/argocd-mcp-server -->
+
 <div align="center">
 
 # Argocd Mcp Server
